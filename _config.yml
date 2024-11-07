@@ -15,12 +15,14 @@ github_username:  daniellearsenault
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 #theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jemoji
+  - jekyll-remote-theme
 
   
 # Exclude from processing.
