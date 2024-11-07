@@ -15,7 +15,7 @@ github_username:  daniellearsenault
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: cayman
 #theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
