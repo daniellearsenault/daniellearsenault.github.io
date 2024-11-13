@@ -5,3 +5,4 @@
 layout: home
 ---
 Testing index.md approach
+[link on main page to ppt](https://github.com/daniellearsenault/daniellearsenault.github.io/blob/main/figs.pptx)
